@@ -1,2 +1,2 @@
 # medicalstore
-Medica Store In C#
+Medical Store In C#
